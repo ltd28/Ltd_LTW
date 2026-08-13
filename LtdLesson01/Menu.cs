@@ -89,7 +89,7 @@ namespace LtdLesson01{
             Console.WriteLine("8. Sắp xếp theo điểm trung bình");
             Console.WriteLine("9. Hiển thị sinh viên có điểm từ 8 trở lên.");
             Console.WriteLine("10. Hiển thị sinh viên có điểm cao nhất.");
-            Console.WriteLine("11. Hiển thị sinh viên có điểm cao nhất.");
+            Console.WriteLine("11. Diểm trung bình toàn bộ sinh viên.");
             Console.WriteLine("12. Thống kê sinh viên theo ngành.");
             Console.WriteLine("13. Thống kê sinh viên theo trạng thái.");
             Console.WriteLine("14. Thoát");

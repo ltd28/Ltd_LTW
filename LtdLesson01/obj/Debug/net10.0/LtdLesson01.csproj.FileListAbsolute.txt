@@ -12,3 +12,4 @@ E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson01\obj\Debug\net10.0\refint\LtdLesson01
 E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson01\obj\Debug\net10.0\LtdLesson01.pdb
 E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson01\obj\Debug\net10.0\LtdLesson01.genruntimeconfig.cache
 E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson01\obj\Debug\net10.0\ref\LtdLesson01.dll
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson01\obj\Debug\net10.0\LtdLesson01.sourcelink.json
