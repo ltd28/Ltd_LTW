@@ -1,0 +1,15 @@
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\LtdLesson03.GeneratedMSBuildEditorConfig.editorconfig
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\LtdLesson03.AssemblyInfoInputs.cache
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\LtdLesson03.AssemblyInfo.cs
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\LtdLesson03.csproj.CoreCompileInputs.cache
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\LtdLesson03.sourcelink.json
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\bin\Debug\net10.0\LtdLesson03.exe
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\bin\Debug\net10.0\LtdLesson03.deps.json
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\bin\Debug\net10.0\LtdLesson03.runtimeconfig.json
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\bin\Debug\net10.0\LtdLesson03.dll
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\bin\Debug\net10.0\LtdLesson03.pdb
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\LtdLesson03.dll
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\refint\LtdLesson03.dll
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\LtdLesson03.pdb
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\LtdLesson03.genruntimeconfig.cache
+E:\ngapZ\LapTrinhWeb\TrenLop\C#\LtdLesson03\obj\Debug\net10.0\ref\LtdLesson03.dll
